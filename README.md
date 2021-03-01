@@ -1,4 +1,4 @@
-# PonyUp.github.io
+# Pony Up Collection
 哔哩哔哩 小马Up收集
 
 不是up但是和小马有所关联的也会收集哦
