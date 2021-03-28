@@ -75,8 +75,6 @@
 
 @[TheLost109](https://space.bilibili.com/2363879) uid:2363879
 
-@[TheLost109](https://space.bilibili.com/2363879) uid:2363879
-
 @[OofyColorful](https://space.bilibili.com/2509194) uid:2509194
 
 @[门外的魅](https://space.bilibili.com/2657049) uid:2657049
@@ -190,8 +188,6 @@
 @[-BronyACHolly-](https://space.bilibili.com/13438569) uid:13438569
 
 @[GD-Studio](https://space.bilibili.com/13715770) uid:13715770
-
-@[Boeing773ER](https://space.bilibili.com/13773711) uid:13773711
 
 @[Boeing773ER](https://space.bilibili.com/13773711) uid:13773711
 
@@ -515,9 +511,9 @@
 
 @[Hamrice-Cheater](https://space.bilibili.com/498949264) uid:498949264
 
-@[midnight- aurora](https://space.bilibili.com/500601725) uid:500601725
+@[midnight-aurora](https://space.bilibili.com/500601725) uid:500601725
 
-@[_CyanApple_](https://space.bilibili.com/503586442) uid:503586442
+@[\_CyanApple\_](https://space.bilibili.com/503586442) uid:503586442
 
 @[Bob_Cattier华仔](https://space.bilibili.com/503770403) uid:503770403
 
