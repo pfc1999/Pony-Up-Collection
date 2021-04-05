@@ -154,6 +154,8 @@
 
 @[阿尼米_animesoul](https://space.bilibili.com/9022509) uid:9022509
 
+@[三发豌豆炮](https://space.bilibili.com/9038761) uid:9038761
+
 @[MLPFiM](https://space.bilibili.com/9073856) uid:9073856
 
 @[小马友情万岁](https://space.bilibili.com/9324015) uid:9324015
@@ -394,6 +396,8 @@
 
 @[MrLV99](https://space.bilibili.com/233676066) uid:233676066
 
+@[云西CloudW](https://space.bilibili.com/237010970) uid:237010970
+
 @[红茶BlackT](https://space.bilibili.com/238233416) uid:238233416
 
 @[白鹿百露](https://space.bilibili.com/243868278) uid:243868278
@@ -502,6 +506,8 @@
 
 @[小海洋Ocean-Teen](https://space.bilibili.com/409789645) uid:409789645
 
+@[Talirian](https://space.bilibili.com/409790680) uid:409790680
+
 @[PUMA不想出门](https://space.bilibili.com/410495184) uid:410495184
 
 @[Nersigon_luna](https://space.bilibili.com/413387897) uid:413387897
@@ -548,13 +554,12 @@
 
 @[想太多的小马](https://space.bilibili.com/628609616) uid:628609616
 
-
 ------
 
 还有一件事（几件事）
 
 *传送门*
 
-[哔哩哔哩 小马Up收集](https://www.bilibili.com/read/cv10596095)
+专栏 [哔哩哔哩小马Up收集](https://www.bilibili.com/read/cv10596095)
 
-[金泽_Sapling](https://space.bilibili.com/275139904)的[bilibili小马up创作月刊](https://www.bilibili.com/read/readlist/rl178091)
+[金泽_Sapling](https://space.bilibili.com/275139904) 的 专栏文集 [bilibili小马up创作月刊](https://www.bilibili.com/read/readlist/rl178091)
