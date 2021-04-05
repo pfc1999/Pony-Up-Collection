@@ -136,6 +136,8 @@
 
 @[锂元素](https://space.bilibili.com/7010267) uid:7010267
 
+@[Ariel-Amber](https://space.bilibili.com/7196365) uid:7196365
+
 @[闪现星风](https://space.bilibili.com/7359969) uid:7359969
 
 @[茶花梦梦Camelia](https://space.bilibili.com/7533000) uid:7533000
@@ -178,6 +180,8 @@
 
 @[毛毛龙獭可](https://space.bilibili.com/11784367) uid:11784367
 
+@[GUIIY电离诡](https://space.bilibili.com/11921653) uid:11921653
+
 @[虹云彼方](https://space.bilibili.com/12651008) uid:12651008
 
 @[习成PBU](https://space.bilibili.com/12719091) uid:12719091
@@ -198,9 +202,13 @@
 
 @[Alekc233](https://space.bilibili.com/14266964) uid:14266964
 
+@[南以墨](https://space.bilibili.com/14413088) uid:14413088
+
 @[丢丢之王](https://space.bilibili.com/14824857) uid:14824857
 
 @[-Winbow-](https://space.bilibili.com/14960481) uid:14960481
+
+@[o暮光剪剪o](https://space.bilibili.com/15654344) uid:15654344
 
 @[常年躺尸的晓晓](https://space.bilibili.com/15823510) uid:15823510
 
@@ -420,6 +428,8 @@
 
 @[名为鉴](https://space.bilibili.com/292056806) uid:292056806
 
+@[XXu服服](https://space.bilibili.com/294006665) uid:294006665
+
 @[白麒麟WK](https://space.bilibili.com/295208797) uid:295208797
 
 @[正经RD](https://space.bilibili.com/297257718) uid:297257718
@@ -463,6 +473,8 @@
 @[TBC马迷官方频道](https://space.bilibili.com/377586914) uid:377586914
 
 @[moosun](https://space.bilibili.com/381758512) uid:381758512
+
+@[LunaSelena](https://space.bilibili.com/381919421) uid:381919421
 
 @[KTK的天空](https://space.bilibili.com/383806161) uid:383806161
 
@@ -510,7 +522,9 @@
 
 @[仁慈之灾祸](https://space.bilibili.com/455317123) uid:455317123
 
-@[遇事绝不先卖萌](https://space.bilibili.com/474165906) uid:474165906
+@[维萌素](https://space.bilibili.com/474165906) uid:474165906
+
+@[小马国主席暗阳](https://space.bilibili.com/476103092) uid:476103092
 
 @[FIMMLP520](https://space.bilibili.com/488388823) uid:488388823
 
@@ -533,3 +547,11 @@
 @[骚龘本龘](https://space.bilibili.com/564796581) uid:564796581
 
 @[想太多的小马](https://space.bilibili.com/628609616) uid:628609616
+
+
+------
+
+还有一件事（几件事）
+*传送门*
+[哔哩哔哩 小马Up收集](https://www.bilibili.com/read/cv10596095)
+[金泽_Sapling](https://space.bilibili.com/275139904)的[bilibili小马up创作月刊](https://www.bilibili.com/read/readlist/rl178091)
