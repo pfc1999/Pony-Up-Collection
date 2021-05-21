@@ -566,7 +566,7 @@
 
 @[sinewave是云音](https://space.bilibili.com/441596551) uid:441596551
 
-@[Kirin_Nainaiti5G](https://space.bilibili.com/442254685) uid:442254685
+@[Richard_Kirin](https://space.bilibili.com/442254685) uid:442254685
 
 @[小隋_XiaoSui](https://space.bilibili.com/443289190) uid:443289190
 
