@@ -78,7 +78,7 @@
 
 @[猫村拓野](https://space.bilibili.com/2074957) uid:2074957
 
-@[Tingsan马蹄糕](https://space.bilibili.com/2279067) uid:2279067
+@[沃迟太太](https://space.bilibili.com/2279067) uid:2279067
 
 @[斯泰恩特Stayent](https://space.bilibili.com/2337066) uid:2337066
 
