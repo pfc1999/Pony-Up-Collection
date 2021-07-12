@@ -2,7 +2,7 @@
 
 不是up但是和小马有所关联的也会收集哦
 
-更正，增删还请联系我 i#b23-tv.icu (#替换成@)~~或者 @[仪征](https://space.bilibili.com/359014614)（账号登不上了，还是邮箱吧）。~~
+更正，增删还请联系我 i#b23-tv.icu (#替换成@)~~或者 @[仪征](https://space.bilibili.com/359014614)~~（账号登不上了，还是邮箱吧）。
 
 ------  
 
@@ -638,6 +638,6 @@
 
 *传送门*
 
-~~专栏 [哔哩哔哩小马Up收集](https://www.bilibili.com/read/cv10596095)（见前文，账号登不上了，故B站内专栏暂时更不了）
+~~专栏 [哔哩哔哩小马Up收集](https://www.bilibili.com/read/cv10596095)~~ （见前文，账号登不上了，故B站内专栏暂时更不了）
 
 [金泽_Sapling](https://space.bilibili.com/275139904) 的 专栏文集 [bilibili小马up创作月刊](https://www.bilibili.com/read/readlist/rl178091)
