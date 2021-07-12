@@ -2,7 +2,7 @@
 
 不是up但是和小马有所关联的也会收集哦
 
-更正，增删还请联系我 biliacfun#qq.com (#替换成@)或者 @[仪征](https://space.bilibili.com/359014614)。
+更正，增删还请联系我 i#b23-tv.icu (#替换成@)~~或者 @[仪征](https://space.bilibili.com/359014614)（账号登不上了，还是邮箱吧）。
 
 ------  
 
@@ -122,7 +122,7 @@
 
 @[雨鹦RainParrot](https://space.bilibili.com/5352545) uid:5352545
 
-@[飞马左岸L-Rivulet](https://space.bilibili.com/5462504) uid:5462504
+@[飞马左岸Zoran](https://space.bilibili.com/5462504) uid:5462504
 
 @[小小の小鸠](https://space.bilibili.com/5684520) uid:5684520
 
@@ -236,6 +236,8 @@
 
 @[LTZZ-K904](https://space.bilibili.com/20048014) uid:20048014
 
+@[CNBronyCon](https://space.bilibili.com/21618817) uid:21618817
+
 @[逆风寂影](https://space.bilibili.com/21621882) uid:21621882
 
 @[锋利的big](https://space.bilibili.com/21780485) uid:21780485
@@ -318,8 +320,6 @@
 
 @[STAR荧惑](https://space.bilibili.com/42851702) uid:42851702
 
-@[RobinRain](https://space.bilibili.com/44754690) uid:44754690
-
 @[天使莉莉-096](https://space.bilibili.com/45864271) uid:45864271
 
 @[keepwatch天琴](https://space.bilibili.com/46850964) uid:46850964
@@ -342,7 +342,7 @@
 
 @[Z3zz](https://space.bilibili.com/83303170) uid:83303170
 
-@[Jason______Xie](https://space.bilibili.com/84048006) uid:84048006
+@[AJ_Studio](https://space.bilibili.com/84048006) uid:84048006
 
 @[D-Tile](https://space.bilibili.com/84102672) uid:84102672
 
@@ -374,7 +374,7 @@
 
 @[ApertureScience1](https://space.bilibili.com/121872671) uid:121872671
 
-@[储蜜的蜂line](https://space.bilibili.com/128671356) uid:128671356
+@[Choefeker丶储蜜的蜂](https://space.bilibili.com/128671356) uid:128671356
 
 @[yaolinr](https://space.bilibili.com/130166856) uid:130166856
 
@@ -410,7 +410,7 @@
 
 @[沅曦柠萌](https://space.bilibili.com/183912289) uid:183912289
 
-@[只卖三块八的G格星S](https://space.bilibili.com/193471723) uid:193471723
+@[只卖三块八的格-Star](https://space.bilibili.com/193471723) uid:193471723
 
 @[萍琪派激推bot](https://space.bilibili.com/204195642) uid:204195642
 
@@ -454,7 +454,7 @@
 
 @[某爱吃巧克力的审判猹](https://space.bilibili.com/286624860) uid:286624860
 
-@[小白兔的日记](https://space.bilibili.com/287003837) uid:287003837
+@[音灵Aura](https://space.bilibili.com/287003837) uid:287003837
 
 @[603哒哒](https://space.bilibili.com/288270303) uid:288270303
 
@@ -502,11 +502,11 @@
 
 @[孩之宝中国官方](https://space.bilibili.com/350610178) uid:350610178
 
-@[sunnystarsc0ut](https://space.bilibili.com/352699090) uid:352699090
+@[sunny丨小双刃](https://space.bilibili.com/352699090) uid:352699090
 
 @[茗萱MX](https://space.bilibili.com/353888208) uid:353888208
 
-@[一只唯物的思克马](https://space.bilibili.com/354589102) uid:354589102
+@[SKR-Pony](https://space.bilibili.com/354589102) uid:354589102
 
 @[星狠书记](https://space.bilibili.com/356198916) uid:356198916
 
@@ -520,17 +520,19 @@
 
 @[TBC马迷官方频道](https://space.bilibili.com/377586914) uid:377586914
 
-@[moosun](https://space.bilibili.com/381758512) uid:381758512
+@[皓月骄阳moosun](https://space.bilibili.com/381758512) uid:381758512
 
 @[LunaSelena](https://space.bilibili.com/381919421) uid:381919421
 
 @[KTK的天空](https://space.bilibili.com/383806161) uid:383806161
 
+@[\_sucrose\_](https://space.bilibili.com/384374841) uid:384374841
+
 @[Shadow-深白](https://space.bilibili.com/385552617) uid:385552617
 
 @[晴墨皓羽](https://space.bilibili.com/387028177) uid:387028177
 
-@[无语省略号](https://space.bilibili.com/390245072) uid:390245072
+@[abandon放弃吧](https://space.bilibili.com/390245072) uid:390245072
 
 @[极光烁烁](https://space.bilibili.com/393225881) uid:393225881
 
@@ -540,7 +542,7 @@
 
 @[RedStar-Sparkle](https://space.bilibili.com/394867274) uid:394867274
 
-@[Lswinwinwin](https://space.bilibili.com/399775215) uid:399775215
+@[ssy哭无泪](https://space.bilibili.com/399775215) uid:399775215
 
 @[EQPD](https://space.bilibili.com/400962352) uid:400962352
 
@@ -558,6 +560,8 @@
 
 @[石炭酉夋钅丂](https://space.bilibili.com/418167896) uid:418167896
 
+@[阿月浑子SY](https://space.bilibili.com/432131515) uid:432131515
+
 @[plasmafall梧秋](https://space.bilibili.com/437729682) uid:437729682
 
 @[单独的人9273](https://space.bilibili.com/437953466) uid:437953466
@@ -566,7 +570,7 @@
 
 @[sinewave是云音](https://space.bilibili.com/441596551) uid:441596551
 
-@[Richard_Kirin](https://space.bilibili.com/442254685) uid:442254685
+@[RichaRD_Kirin](https://space.bilibili.com/442254685) uid:442254685
 
 @[小隋_XiaoSui](https://space.bilibili.com/443289190) uid:443289190
 
@@ -628,13 +632,12 @@
 
 @[屑九阴](https://space.bilibili.com/1830941791) uid:1830941791
 
-
 ------
 
 还有一件事（几件事）
 
 *传送门*
 
-专栏 [哔哩哔哩小马Up收集](https://www.bilibili.com/read/cv10596095)
+~~专栏 [哔哩哔哩小马Up收集](https://www.bilibili.com/read/cv10596095)（见前文，账号登不上了，故B站内专栏暂时更不了）
 
 [金泽_Sapling](https://space.bilibili.com/275139904) 的 专栏文集 [bilibili小马up创作月刊](https://www.bilibili.com/read/readlist/rl178091)
