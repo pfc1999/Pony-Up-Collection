@@ -665,3 +665,5 @@
 [金泽_Sapling](https://space.bilibili.com/275139904) 的 专栏文集 [bilibili小马up创作月刊](https://www.bilibili.com/read/readlist/rl178091)
 
 [坎特洛特 - 交通枢纽](https://canterlot.site)
+
+[24h 小马宝莉音乐](https://live.bilibili.com/23389495)
